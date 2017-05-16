@@ -1,0 +1,63 @@
+exports[`App snapshots 1`] = `
+<div
+  className="page">
+  <div
+    className="interactions">
+    <form
+      onSubmit={[Function]}>
+      <input
+        onChange={[Function]}
+        type="text"
+        value="react" />
+      <button
+        type="submit">
+        <b>
+          Enter search term here
+        </b>
+      </button>
+    </form>
+  </div>
+  <div
+    className="table" />
+  <div
+    className="table-right">
+    <span />
+    <span />
+    <span />
+  </div>
+  <div
+    className="interactions">
+    
+    <span>
+       
+      0
+       of 
+      0
+    </span>
+    
+  </div>
+</div>
+`;
+
+exports[`Button snapshots 1`] = `
+<button
+  className=""
+  onClick={undefined}
+  type="button">
+  click my
+</button>
+`;
+
+exports[`Search snapshots 1`] = `
+<form
+  onSubmit={undefined}>
+  <input
+    onChange={undefined}
+    type="text"
+    value={undefined} />
+  <button
+    type="submit">
+    Search
+  </button>
+</form>
+`;

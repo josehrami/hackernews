@@ -35,6 +35,7 @@ describe('Search', () => {
   });
 });
 
+
 describe('Button', () => {
   it('renders', () => {
     const div = document.createElement('div');
